@@ -3,7 +3,7 @@
 - 💞️ I work at ANKASOFT
 - ✉️ How to reach me yagmurozden@hotmail.com
 - 🪄 My blog medium.com/@yagmurozden
-- 🌐 My linkedin profile linkedin.com/in/yağmur-özden-5094b0173/
+- 🌐 My linkedin profile linkedin.com/in/yagmurozden
 
 <!---
 YagmurOzden/YagmurOzden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
