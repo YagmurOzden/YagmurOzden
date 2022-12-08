@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 - 👋 Hi, I’m @YagmurOzden
 - 👀 I’m interested in python, javascript and go languages
 - 💞️ I work at ANKASOFT
